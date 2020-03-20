@@ -14,6 +14,7 @@
  - Compilers to check if they are matching the braces or if they are in the right order.
  - Recursion by keeping result of previous function call
  - Backwards/Forwards in browsers
+ - Depth First Search (DFS)
 
  Complexity Analysis:
  
@@ -85,11 +86,6 @@ extension Stack {
         return list.last!
     }
 }
-
-//extension Stack: Sequence {
-//
-//}
-
 
 var groceries = Stack()
 
