@@ -1,6 +1,7 @@
 import Foundation
 import UIKit
 
+print("""
 
 Tower of Hanoi
 
